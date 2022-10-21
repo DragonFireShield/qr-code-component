@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I’ve implemented some things I learned over the last couple of weeks and before that. Biggest getaway from the past couple of learning sessions is getting a basic grasp of flexbox and understanding absolute positioning and centering an item in the exact middle of its container.
+I’ve implemented some things I learned over the last couple of weeks and before that. Biggest takeaways from the past couple of learning sessions include getting a grasp of flexbox and its features and applying absolute positioning and centering an item in the exact middle of its container.
 
 ### Continued development
 
